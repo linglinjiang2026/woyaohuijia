@@ -1,0 +1,42 @@
+{
+    "test_start": "2026-08-27 21:03:59",
+    "test_mode": "count",
+    "total_tests": 100,
+    "success": 96,
+    "failed": 4,
+    "success_rate": 96.0,
+    "total_duration_seconds": 2274.39,
+    "average_execution_time": 4.62,
+    "max_execution_time": 262.27,
+    "min_execution_time": 1.1,
+    "errors": [
+        {
+            "test_number": 1,
+            "error_type": "NoSuchDriverException",
+            "error": "Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+            "duration": 502.91,
+            "screenshot": null
+        },
+        {
+            "test_number": 2,
+            "error_type": "NoSuchDriverException",
+            "error": "Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+            "duration": 300.05,
+            "screenshot": null
+        },
+        {
+            "test_number": 3,
+            "error_type": "NoSuchDriverException",
+            "error": "Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+            "duration": 205.84,
+            "screenshot": null
+        },
+        {
+            "test_number": 4,
+            "error_type": "NoSuchDriverException",
+            "error": "Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location\n",
+            "duration": 518.87,
+            "screenshot": null
+        }
+    ]
+}
